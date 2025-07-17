@@ -1,4 +1,4 @@
-Great question! Comparing **Codeforces** and **LeetCode** difficulty levels helps you choose the right platform for your goals — especially for **interview prep**, **competitive programming**, or **DSA mastery**.
+Comparing **Codeforces** and **LeetCode** difficulty levels helps you choose the right platform for your goals — especially for **interview prep**, **competitive programming**, or **DSA mastery**.
 
 ---
 
@@ -82,6 +82,3 @@ Use **[Codeforces problem rating filter](https://codeforces.com/problemset)** to
 
 Or use **\[DSA sheets (like Striver, Love Babbar)** to combine LeetCode and Codeforces strategically.
 
----
-
-Let me know your current level or target (e.g., FAANG interviews, ICPC, CP rating goal), and I can give you a **custom LeetCode–Codeforces mapping/plan**!
